@@ -50,6 +50,7 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 | `npx astro add --help`    | Get help using the Astro CLI for plugins & etc   |
 | `npx astro add tailwind`  | Works for install tailwind as a css's plugin     |
+| `npx astro add preact`    | Works for install preact as a plugin             |
 
 ## 👀 Want to learn more?
 
